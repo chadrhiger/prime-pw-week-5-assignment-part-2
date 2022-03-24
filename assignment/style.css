@@ -1,0 +1,18 @@
+header {
+  background-color: #1C3144;
+  text-align: center;
+}
+
+h2 {
+  color: #FFBA08;
+}
+main {
+  padding: 1em;
+  background: #A2AEBB;
+}
+
+body {
+  margin: 0;
+  background-image: url("/Users/chadly/Documents/Prime/primew5-tier1/prime-pw-week-5-assignment-part-2/assignment/record.png");
+  /* background-repeat: repeat-x; */
+}
