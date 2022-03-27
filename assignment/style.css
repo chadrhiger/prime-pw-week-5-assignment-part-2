@@ -1,12 +1,24 @@
+.red {
+  color: #d00000;
+  font-weight: bold;
+}
+
+.yellow {
+  color: #FFBA08;
+}
+
+.blue {
+  color: #3F88C5;
+}
+
 header {
   background-color: #1C3144;
   text-align: center;
-}
+  }
 
 h2 {
   font-size: xx-large;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  color: #FFBA08;
 }
 main {
   padding: 1em;
@@ -16,5 +28,6 @@ main {
 body {
   margin: 0;
   background-image: url("/Users/chadly/Documents/Prime/primew5-tier1/prime-pw-week-5-assignment-part-2/assignment/record.png");
-  /* background-repeat: repeat-x; */
+  background-repeat: repeat;
 }
+
